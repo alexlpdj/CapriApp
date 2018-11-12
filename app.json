@@ -1,13 +1,16 @@
 {
   "expo": {
     "name": "CapriApp",
-    "description": "App para pedidos en Pizzeria Capri",
+    "description": "App para pedidos en Pizzeria Capri2",
     "slug": "CapriApp",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
+    "androidStatusBar": {
+      "backgroundColor": "#3f51b5"
+    },
     "icon": "./assets/images/icon.png",
     "splash": {
       "image": "./assets/images/splash.png",
